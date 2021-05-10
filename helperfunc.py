@@ -9,7 +9,7 @@ with open('/Users/vaneezaahmad/Documents/Flatiron/Phase1/ds-east-042621-lectures
 url_params = {
     'term': "Flowers",
     'location': 'Austin+TX',
-    'limit': SEARCH_LIMIT,
+    'limit': 50,
     'offset': 0
 }
 
